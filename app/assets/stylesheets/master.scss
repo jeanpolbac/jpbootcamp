@@ -1,5 +1,5 @@
 @import "bootstrap";
-
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 
 .clear {
   clear: both;
@@ -26,7 +26,7 @@
 }
 
 .slogan {
-  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-family: 'Oswald', sans-serif;
   font-style: italic;
   padding-top: 26px;
 }
@@ -38,8 +38,8 @@
 .links a{
   color: black;
   font-size: 25px;
-  border-bottom: 1px solid #dfdfdf;
-  font-family: 'geometria-light', sans-serif;
+  border-bottom: 2px solid #dfdfdf;
+  font-family: 'Oswald', sans-serif;
 }
 
 header {
@@ -51,26 +51,25 @@ hr {
 }
 
 h1 {
-  font-family: 'geometria-light', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: bold;
   font-size: 48px;
 
 }
 
 h2 {
-  font-family: 'geometria-light', sans-serif;
+  font-family: 'Oswald', sans-serif;
   
 }
 
 .next-q {
   color: #f84342;
-  font-family: 'geometria-light', sans-serif;
-  font-size:20px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
 }
   
 .footer-blurb {
-  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
-  font-style: italic;
+  font-family: 'Oswald', sans-serif;
   text-align: right;
   font-size: 10px;
 }
@@ -81,7 +80,7 @@ h2 {
 
 
 .about {
-  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 @media (max-width: 750px) {
@@ -92,12 +91,12 @@ h2 {
 
 
 .modal {
-  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 h2 span {
   color: #dddddd;
-  font-family: 'geometria-light', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 ::selection {
@@ -107,7 +106,10 @@ h2 span {
 
 
 
-
+.random.quotes {
+font-family: 'Oswald', sans-serif;
+  
+}
 
 
 
