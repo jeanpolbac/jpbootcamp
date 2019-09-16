@@ -2,7 +2,8 @@
 
 My first assignemnt while enrolled in the UCF Full Stack Web Development Boot Camp.  This app 
 allows users to add quotes that will be randomly displayed in the main page. A database-powered quote generator with a monile-first design, using the Ruby on Rails framework, HTML, and CSS. Uses Git and GitHub for version control, and launched on Heroku.
-
+Preview:
+https://splurty-jp-bacquet.herokuapp.com
 
 ### Prerequisites
 
