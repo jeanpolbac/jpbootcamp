@@ -7,24 +7,20 @@ allows users to add quotes that will be randomly displayed in the main page. A d
 Preview:
 https://splurty-jp-bacquet.herokuapp.com
 
-### Prerequisites
-
-Ruby on Rails is required to be installed
 
 
-## Deployment
-
-Use Git and GitHub for version control. User Heroku for deploying application.
-
-## Built With
+## Features
 
 * [Ruby on Rails](https://guides.rubyonrails.org/) - The web framework used
+* Mobile-responsive
+* Crowd-source content
 
 
 
 ## Authors
 
-
 * **Jean-Pol Bacquet** - *Assignment from UCF Web Boot Camp* - [Splurty - Quote Generator](https://github.com/jeanpolbac/jpbootcamp)
 
 
+## Credits
+* [UCF - Coding Bootcamp](https://bootcamp.ce.ucf.edu/coding/)
